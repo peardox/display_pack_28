@@ -6,6 +6,8 @@ This is just the standard demo of bouncing balls with frame timing added
 
 Additionally you'll find display_pack_28 in libraries which is just a modified display_pack_2 corrected for the changed button pins etc
 
+Note that the drivers and libraries are included in the repo (from pimoroni-pico)
+
 For SDK 2.0.0
 
 Steps
